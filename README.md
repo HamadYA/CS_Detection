@@ -7,6 +7,7 @@ data and identify cytoplasmic strings that may support embryologists in
 embryo-quality assessment.
 
 ![CS_Detection](/images/1.png)
+![CS_Detection](/images/2.png)
 
 ------------------------------------------------------------------------
 
