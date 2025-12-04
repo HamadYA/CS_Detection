@@ -6,7 +6,7 @@ This project provides a reproducible pipeline to process embryo imaging
 data and identify cytoplasmic strings that may support embryologists in
 embryo-quality assessment.
 
-![CS_Detection](/images/1.pdf)
+![CS_Detection](/images/1.png)
 
 ------------------------------------------------------------------------
 
